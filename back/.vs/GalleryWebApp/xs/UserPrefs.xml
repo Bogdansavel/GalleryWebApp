@@ -1,0 +1,77 @@
+﻿<Properties StartupConfiguration="{18400EC8-163B-4919-AE7C-D0A7140DF686}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GalleryWebApp/Configs/PolicyConfig.cs">
+    <Files>
+      <File FileName="GalleryWebApp/Controllers/ArtistController.cs" Line="45" Column="19" />
+      <File FileName="GalleryWebApp/Controllers/PaintingController.cs" />
+      <File FileName="GalleryWebApp/Services/Service.cs" />
+      <File FileName="GalleryWebApp/Repositories/PaintingRepository.cs" />
+      <File FileName="GalleryWebApp/Middlewares/ErrorHandlingMiddleware.cs" />
+      <File FileName="GalleryWebApp/Startup.cs" Line="62" Column="97" />
+      <File FileName="GalleryWebApp/appsettings.json" Line="7" Column="32" />
+      <File FileName="GalleryWebApp/Data/DataContext.cs" />
+      <File FileName="GalleryWebApp/Repositories/Repository.cs" />
+      <File FileName="GalleryWebApp/Services/PaintingService.cs" />
+      <File FileName="GalleryWebApp/Models/DTOs/PaintingDTO.cs" />
+      <File FileName="GalleryWebApp/Data/JWT/JwtGenerator.cs" />
+      <File FileName="GalleryWebApp/Models/User.cs" />
+      <File FileName="GalleryWebApp/Controllers/UserController.cs" />
+      <File FileName="GalleryWebApp/Models/DTOs/UserDTO.cs" />
+      <File FileName="GalleryWebApp/Data/UserDataSeed.cs" />
+      <File FileName="GalleryWebApp/Models/DTOs/LoginDTO.cs" />
+      <File FileName="GalleryWebApp/Models/Validations/LoginDTOValidation.cs" />
+      <File FileName="GalleryWebApp/Services/UserService.cs" />
+      <File FileName="GalleryWebApp/Controllers/TestController.cs" />
+      <File FileName="GalleryWebApp/AutoMapper/PaintingMapper.cs" />
+      <File FileName="GalleryWebApp/Models/DTOs/RegistrationDTO.cs" />
+      <File FileName="GalleryWebApp/Services/Contracts/IUserService.cs" />
+      <File FileName="GalleryWebApp/Data/JWT/Contracts/IJwtGenerator.cs" />
+      <File FileName="GalleryWebApp/Services/Contracts/IArtistService.cs" />
+      <File FileName="GalleryWebApp/Services/Contracts/IPaintingService.cs" />
+      <File FileName="GalleryWebApp/Services/ArtistService.cs" />
+      <File FileName="GalleryWebApp/Models/Validations/RegistrationValidation.cs" />
+      <File FileName="GalleryWebApp/Services/Contracts/IService.cs" />
+      <File FileName="GalleryWebApp/Repositories/Contracts/IRepository.cs" />
+      <File FileName="GalleryWebApp/Models/Comment.cs" />
+      <File FileName="GalleryWebApp/Controllers/CommentController.cs" />
+      <File FileName="GalleryWebApp/Repositories/Contracts/IPaintingRepository.cs" />
+      <File FileName="GalleryWebApp/Repositories/ArtistRepository.cs" />
+      <File FileName="GalleryWebApp/Repositories/CommentRepository.cs" />
+      <File FileName="GalleryWebApp/Models/Painting.cs" />
+      <File FileName="GalleryWebApp/Models/DTOs/CommentDTO.cs" />
+      <File FileName="GalleryWebApp/Services/CommentService.cs" />
+      <File FileName="GalleryWebApp/Program.cs" />
+      <File FileName="GalleryWebApp/Extensions.cs" />
+      <File FileName="GalleryWebApp/Models/DTOs/ArtistDTO.cs" />
+      <File FileName="GalleryWebApp/Models/Favorite.cs" />
+      <File FileName="GalleryWebApp/Models/DTOs/FavoriteDTO.cs" />
+      <File FileName="GalleryWebApp/Repositories/Contracts/IFavoriteRepository.cs" />
+      <File FileName="GalleryWebApp/Repositories/FavoriteRepository.cs" Line="46" Column="42" />
+      <File FileName="GalleryWebApp/Services/Contracts/IFavoriteService.cs" />
+      <File FileName="GalleryWebApp/Services/FavoriteService.cs" />
+      <File FileName="GalleryWebApp/Controllers/FavoriteController.cs" />
+      <File FileName="GalleryWebApp/Models/Artist.cs" />
+      <File FileName="GalleryWebApp/Configs/PolicyConfig.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GalleryWebApp" expanded="True">
+            <Node name="GalleryWebApp" expanded="True">
+              <Node name="Configs" expanded="True">
+                <Node name="PolicyConfig.cs" selected="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GalleryWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
